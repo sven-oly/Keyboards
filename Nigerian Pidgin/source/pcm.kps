@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>13.0.108.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <ReadMeFile>..\README.md</ReadMeFile>
+    <MSIFileName></MSIFileName>
+    <MSIOptions></MSIOptions>
+    <FollowKeyboardVersion/>
+  </Options>
+  <StartMenu>
+    <Folder></Folder>
+    <Items/>
+  </StartMenu>
+  <Info>
+    <Version URL=""></Version>
+    <Name URL="">Nigerian Pidgin</Name>
+    <Copyright URL="">©2020</Copyright>
+    <Author URL="mailto:cwcornelius@gmail.com">Craig Cornelius</Author>
+    <WebSite URL="http://languagetools-153419.appspot.com/pcm/">http://languagetools-153419.appspot.com/pcm/</WebSite>
+  </Info>
+  <Files>
+    <File>
+      <Name>..\build\pcm.js</Name>
+      <Description>File pcm.js</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.js</FileType>
+    </File>
+    <File>
+      <Name>..\build\pcm.kmx</Name>
+      <Description>Keyboard Nigerian Pidgin</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+    <File>
+      <Name>..\README.md</Name>
+      <Description>File README.md</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.md</FileType>
+    </File>
+    <File>
+      <Name>pcm-code.js</Name>
+      <Description>File pcm-code.js</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.js</FileType>
+    </File>
+    <File>
+      <Name>pcm.keyman-touch-layout</Name>
+      <Description>File pcm.keyman-touch-layout</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.keyman-touch-layout</FileType>
+    </File>
+    <File>
+      <Name>..\build\pcm_mobile_default.png</Name>
+      <Description>File pcm_mobile_default.png</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.png</FileType>
+    </File>
+    <File>
+      <Name>..\build\pcm_mobile_shift.png</Name>
+      <Description>File pcm_mobile_shift.png</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.png</FileType>
+    </File>
+    <File>
+      <Name>..\build\pcm_mobile_symbols.png</Name>
+      <Description>File pcm_mobile_symbols.png</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.png</FileType>
+    </File>
+  </Files>
+  <Keyboards>
+    <Keyboard>
+      <Name>Nigerian Pidgin</Name>
+      <ID>pcm</ID>
+      <Version>9</Version>
+      <Languages>
+        <Language ID="pcm-Latn">Nigerian Pidgin (Latin)</Language>
+      </Languages>
+    </Keyboard>
+  </Keyboards>
+  <Strings/>
+</Package>
