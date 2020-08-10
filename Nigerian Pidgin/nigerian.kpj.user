@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>1</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Nigerian Pidgin\nigerian.kpj</path>
+    <file ID="id_0ce79fc2fdf0c7295333e3bf9e8b0724" Expanded="1"/>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Nigerian Pidgin\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Nigerian Pidgin\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Nigerian Pidgin\README.md</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_d5a2fc5100c9d3db8423ef4bff890c85</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Nigerian Pidgin\nigerian.keyboard_info</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0ce79fc2fdf0c7295333e3bf9e8b0724</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Nigerian Pidgin\source\pcm.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_228f0674de669786b579e0200e933b36</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Nigerian Pidgin\source\pcm.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>MS Sans Serif|8|   |1</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_b1987cbe3ae4813cd2e8222cb61b2cca</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Nigerian Pidgin\source\..\build\pcm.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_c86a513f0b7dacb15d3da35d13518b90</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Nigerian Pidgin\source\..\build\pcm.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_26166d1a422f83d7ec48c4ba6ac70915</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Nigerian Pidgin\source\..\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_94a90d141f2a5308eb914328b4e81230</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Nigerian Pidgin\source\pcm-code.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_c110728e853c82033182193e2315a3e4</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Nigerian Pidgin\source\pcm.keyman-touch-layout</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_f6c4014ee0c33ad0662a8ce00ad4af41</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Nigerian Pidgin\source\..\build\pcm_mobile_default.png</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_778461d32b0be657cf4682aec5f5796d</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Nigerian Pidgin\source\..\build\pcm_mobile_shift.png</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_881987eeee352a5bb2baa7a30ecae934</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Nigerian Pidgin\source\..\build\pcm_mobile_symbols.png</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>phake.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Phake\phake.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>phk.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Phake\source\phk.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>pcm.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Nigerian Pidgin\source\pcm.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU3</ID>
+      <Filename>nigerian.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Nigerian Pidgin\source\nigerian.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU4</ID>
+      <Filename>nigerian.kvks</Filename>
+      <FileType>.kvks</FileType>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Nigerian Pidgin\source\nigerian.kvks</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU5</ID>
+      <Filename>pcm.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Nigerian Pidgin\source\pcm.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU6</ID>
+      <Filename>pcm.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\cwcor\Documents\projects\Nigerian Pidgin\source\pcm.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU7</ID>
+      <Filename>README.md</Filename>
+      <FileType>.md</FileType>
+      <FullPath>C:\Users\cwcor\Documents\projects\Nigerian Pidgin\README.md</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU8</ID>
+      <Filename>pcm.js</Filename>
+      <FileType>.js</FileType>
+      <FullPath>C:\Users\cwcor\Documents\projects\Nigerian Pidgin\source\..\build\pcm.js</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>

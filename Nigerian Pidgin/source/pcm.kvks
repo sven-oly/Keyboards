@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<visualkeyboard>
+  <header>
+    <version>10.0</version>
+    <kbdname>pcm</kbdname>
+    <flags/>
+  </header>
+  <encoding name="unicode" fontname="Arial" fontsize="-12">
+    <layer shift="S">
+      <key vkey="K_QUOTE">Ẹ</key>
+      <key vkey="K_COLON">Ọ</key>
+      <key vkey="K_COMMA">&gt;</key>
+      <key vkey="K_PERIOD">:</key>
+      <key vkey="K_SLASH">"</key>
+      <key vkey="K_B">N</key>
+      <key vkey="K_C">V</key>
+      <key vkey="K_M">&lt;</key>
+      <key vkey="K_N">M</key>
+      <key vkey="K_Q">́</key>
+      <key vkey="K_V">B</key>
+      <key vkey="K_X">C</key>
+      <key vkey="K_BKSLASH">?</key>
+      <key vkey="K_BKQUOTE">̀</key>
+    </layer>
+    <layer shift="">
+      <key vkey="K_QUOTE">ẹ</key>
+      <key vkey="K_COMMA">.</key>
+      <key vkey="K_PERIOD">;</key>
+      <key vkey="K_SLASH">'</key>
+      <key vkey="K_COLON">ọ</key>
+      <key vkey="K_BKSLASH">/</key>
+      <key vkey="K_BKQUOTE">̀</key>
+      <key vkey="K_B">n</key>
+      <key vkey="K_C">v</key>
+      <key vkey="K_M">,</key>
+      <key vkey="K_N">m</key>
+      <key vkey="K_Q">́</key>
+      <key vkey="K_V">b</key>
+      <key vkey="K_X">c</key>
+    </layer>
+  </encoding>
+</visualkeyboard>

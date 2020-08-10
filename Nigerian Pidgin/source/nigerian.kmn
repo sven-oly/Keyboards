@@ -1,0 +1,13 @@
+﻿c nigerian generated from template at 2020-07-16 09:43:11
+c with name "Nigerian"
+store(&NAME) 'Nigerian'
+store(&COPYRIGHT) '©'
+store(&VERSION) '10.0'
+store(&KEYBOARDVERSION) '1.0'
+store(&TARGETS) 'windows macosx mobile'
+store(&VISUALKEYBOARD) 'nigerian.kvks'
+store(&LAYOUTFILE) 'nigerian.keyman-touch-layout'
+
+begin Unicode > use(main)
+
+group(main) using keys
