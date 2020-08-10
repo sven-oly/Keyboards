@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>3</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Phake\phk.kpj</path>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_2c3a6590c82e33e6a0039e78c7177567</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Phake\source\phk.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>MS Sans Serif|8|   |1</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_999a6a9853b207d45b7392a29c2609ec</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Phake\source\phk.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Phake\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Phake\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Phake\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_928b5e799ed399c3936e2a3778f1551d</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Phake\phk.keyboard_info</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_56d4f3fce8b0a8a332e2e76971246d87</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Phake\source\phk.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Phake\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Phake\source\readme.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_1059b9df306bd1e154b12cbc891676d0</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Phake\source\..\build\phk.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_f5bfd4724cb2f1a9507bb335f50be18e</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Phake\source\..\build\phk.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_58ba0f118210790a8a4efc56517cabe6</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Phake\source\..\phk_layout.png</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_85ff51bec58e93925069508635fe2dd6</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Phake\source\..\build\phk.js</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>phk.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Phake\source\phk.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>phk.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Phake\source\phk.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>welcome.htm</Filename>
+      <FileType>.htm</FileType>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Phake\source\welcome.htm</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU3</ID>
+      <Filename>readme.htm</Filename>
+      <FileType>.htm</FileType>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Phake\source\readme.htm</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU4</ID>
+      <Filename>nigerian.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Nigerian Pidgin\source\nigerian.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU5</ID>
+      <Filename>phk.kvk</Filename>
+      <FileType>.kvk</FileType>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Phake\source\..\build\phk.kvk</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU6</ID>
+      <Filename>phk.kvk</Filename>
+      <FileType>.kvk</FileType>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Phake\build\phk.kvk</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU7</ID>
+      <Filename>Phake.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Phake\Phake.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU8</ID>
+      <Filename>phk.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\New folder (2)\New folder\phk\source\phk.kmn</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>

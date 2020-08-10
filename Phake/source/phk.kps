@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>13.0.111.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <ReadMeFile>readme.htm</ReadMeFile>
+    <GraphicFile>phk.ico</GraphicFile>
+    <MSIFileName></MSIFileName>
+    <MSIOptions></MSIOptions>
+    <FollowKeyboardVersion/>
+  </Options>
+  <StartMenu>
+    <Folder></Folder>
+    <Items/>
+  </StartMenu>
+  <Info>
+    <Name URL="">Phake</Name>
+    <Copyright URL="">©2020</Copyright>
+    <Author URL="mailto:cwcornelius@gmail.com">Craig Cornelius</Author>
+    <Version URL=""></Version>
+    <WebSite URL="https://languagetools-153419.appspot.com/phk/">https://languagetools-153419.appspot.com/phk/</WebSite>
+  </Info>
+  <Files>
+    <File>
+      <Name>welcome.htm</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>readme.htm</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>..\build\phk.kvk</Name>
+      <Description>File phk.kvk</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kvk</FileType>
+    </File>
+    <File>
+      <Name>..\build\phk.kmx</Name>
+      <Description>Keyboard Phake</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+    <File>
+      <Name>..\phk_layout.png</Name>
+      <Description>File phk_layout.png</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.png</FileType>
+    </File>
+    <File>
+      <Name>phk.ico</Name>
+      <Description>File phk.ico</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ico</FileType>
+    </File>
+    <File>
+      <Name>..\build\phk.js</Name>
+      <Description>File phk.js</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.js</FileType>
+    </File>
+  </Files>
+  <Keyboards>
+    <Keyboard>
+      <Name>Phake</Name>
+      <ID>phk</ID>
+      <Version>1.0</Version>
+      <Languages>
+        <Language ID="phk-Mymr">Tai Phake</Language>
+      </Languages>
+    </Keyboard>
+  </Keyboards>
+  <Strings/>
+</Package>
