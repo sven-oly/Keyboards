@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>1</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\cwcor\Documents\chatino1\chatino1.kpj</path>
+    <file ID="id_be3281d153bcd44c2e77e0700c921baf" Expanded="1"/>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_ce568ca6757c0bac69b780dbe170a4d0</ID>
+      <FullPath>C:\Users\cwcor\Documents\chatino1\source\chatino1.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\cwcor\Documents\chatino1\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\cwcor\Documents\chatino1\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\cwcor\Documents\chatino1\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_d49cc80b16fac95b32d4bcd9b8343153</ID>
+      <FullPath>C:\Users\cwcor\Documents\chatino1\chatino1.keyboard_info</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_1d3b579a1ffc08fb4f59c0ac097d4569</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Keyboards\greenhmong-source\greenhmong\chatino.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>MS Sans Serif|8|   |1</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>True</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_39f2e33329037d12c0de004038a58e9f</ID>
+      <FullPath>C:\Users\cwcor\Documents\chatino1\source\..\build\chatino1.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_27bca0ceb7e8f9b453910923aa3c03ad</ID>
+      <FullPath>C:\Users\cwcor\Documents\chatino1\source\..\build\chatino1.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_9edaee5dca522393ed6c19123dab74df</ID>
+      <FullPath>C:\Users\cwcor\Documents\chatino1\source\..\build\chatino1.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\cwcor\Documents\chatino1\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\cwcor\Documents\chatino1\source\readme.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8bbb4a5b1a046c9e69b4d78dbdf702da</ID>
+      <FullPath>C:\Users\cwcor\Documents\chatino1\chatino_mobile.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>MS Sans Serif|8|   |1</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>True</Debug>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>chatino.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Keyboards\greenhmong-source\greenhmong\chatino.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>chatino_mobile.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\cwcor\Documents\chatino1\chatino_mobile.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>chatino.js</Filename>
+      <FileType>.js</FileType>
+      <FullPath>C:\Users\cwcor\Documents\chatino1\build\chatino.js</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU3</ID>
+      <Filename>chatino1.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\cwcor\Documents\chatino1\source\chatino1.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU4</ID>
+      <Filename>ipamenu.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Samples\Keyboards\ipamenu.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU5</ID>
+      <Filename>nepali.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Samples\Keyboards\nepali.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU6</ID>
+      <Filename>chatino1.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\cwcor\Documents\chatino1\source\chatino1.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU7</ID>
+      <Filename>chatino1.js</Filename>
+      <FileType>.js</FileType>
+      <FullPath>C:\Users\cwcor\Documents\chatino1\build\chatino1.js</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>

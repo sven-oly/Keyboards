@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>1</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Chatino\chatino.kpj</path>
+    <file ID="id_79ea8ca488a2f9fc22d0e0bd4454a952" Expanded="1"/>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Chatino\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Chatino\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Chatino\README.md</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_79ea8ca488a2f9fc22d0e0bd4454a952</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Chatino\source\chatino.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_806c06a49651cef369ca71c6b067a62d</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Chatino\source\chatino_mobile.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>MS Sans Serif|8|   |1</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_c62f815b3f819ffdf814d3807b095c9d</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Chatino\source\chatino_dk.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>MS Sans Serif|8|   |1</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_8109114af4a2728065b908c39bd4ce2e</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Chatino\chatino.keyboard_info</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Chatino\source\welcome.htm</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Chatino\source\readme.htm</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_15e4a834b1ab686be91761c3540d03de</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Chatino\build\chatino_dk.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_308fdfad793cb0de627aae068a88484a</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Chatino\build\chatino_mobile.js</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_06269d41bdff02ecf645e8e99ec25549</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Chatino\build\chatino.kmp</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_fa37c9075ebfd4c1a1c6d6e4b86dc202</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Chatino\source\chatino.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>MS Sans Serif|8|   |1</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_26166d1a422f83d7ec48c4ba6ac70915</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Chatino\source\..\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_5106bda756a7659786c0eef1cd88f31a</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Chatino\source\..\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_c296b5df3dc126e219e0173fcbc1baec</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Chatino\source\..\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_90d5070350e511d2c105c87567ccfcbe</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Chatino\source\..\build\chatino_mobile.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_39010e44ac7f1a95517bfb520a218eed</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Chatino\source\..\build\chatino_dk.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_18b43eacc1c271b2617baf3a07ec5d82</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Chatino\source\chatino.kvks</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_c4a07fe182eedc6b45fb9631db300ce4</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Chatino\source\chatino_dk.kvks</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_1bc1edc4cde0ac26d3ed126c57e12942</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Chatino\source\..\build\chatino.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_95b49772114c7814257c3927e35b126f</ID>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Chatino\source\..\build\chatino.kmx</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>phake.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Phake\phake.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>phk.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Phake\source\phk.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>chatino.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Chatino\source\chatino.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU3</ID>
+      <Filename>chatino.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Chatino\source\chatino.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU4</ID>
+      <Filename>chatino_mobile.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Chatino\source\chatino_mobile.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU5</ID>
+      <Filename>chatino_dk.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Chatino\source\chatino_dk.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU6</ID>
+      <Filename>README.md</Filename>
+      <FileType>.md</FileType>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Chatino\README.md</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU7</ID>
+      <Filename>README.md</Filename>
+      <FileType>.md</FileType>
+      <FullPath>C:\Users\cwcor\Desktop\Keyman Developer\Keyboards\Chatino\source\..\README.md</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU8</ID>
+      <Filename>chatino.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\cwcor\Documents\projects\chatino\source\chatino.kps</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<visualkeyboard>
+  <header>
+    <version>10.0</version>
+    <kbdname>chatino</kbdname>
+    <flags/>
+  </header>
+  <encoding name="unicode" fontname="Arial" fontsize="-12">
+    <layer shift="">
+      <key vkey="K_1">ᴬ</key>
+      <key vkey="K_2">ᴮ</key>
+      <key vkey="K_3">ᶜ</key>
+      <key vkey="K_4">ᴰ</key>
+      <key vkey="K_5">ᴱ</key>
+      <key vkey="K_6">ᶠ</key>
+      <key vkey="K_3">ᶜ</key>
+      <key vkey="K_4">ᴰ</key>
+      <key vkey="K_5">ᴱ</key>
+      <key vkey="K_6">ᶠ</key>
+      <key vkey="K_7">ᴳ</key>
+      <key vkey="K_8">ᴴ</key>
+      <key vkey="K_9">ᴵ</key>
+      <key vkey="K_0">ᴶ</key>
+      <key vkey="K_HYPHEN">ᴷ</key>
+      <key vkey="K_EQUAL">ᴸ</key>
+    </layer>
+    <layer shift="S">
+      <key vkey="K_1">ᵃ</key>
+      <key vkey="K_2">ᵇ</key>
+      <key vkey="K_3">ᶜ</key>
+      <key vkey="K_4">ᵈ</key>
+      <key vkey="K_5">ᵉ</key>
+      <key vkey="K_6">ᶠ</key>
+      <key vkey="K_7">ᵍ</key>
+      <key vkey="K_8">ʰ</key>
+      <key vkey="K_9">ⁱ</key>
+      <key vkey="K_0">ʲ</key>
+      <key vkey="K_HYPHEN">ᵏ</key>
+      <key vkey="K_EQUAL">ˡ</key>
+    </layer>
+    <layer shift="SC">
+      <key vkey="K_1">!</key>
+      <key vkey="K_2">@</key>
+      <key vkey="K_3">#</key>
+      <key vkey="K_4">$</key>
+      <key vkey="K_5">%</key>
+      <key vkey="K_6">^</key>
+      <key vkey="K_7">&amp;</key>
+      <key vkey="K_8">*</key>
+      <key vkey="K_9">(</key>
+      <key vkey="K_0">)</key>
+      <key vkey="K_HYPHEN">+</key>
+      <key vkey="K_EQUAL">+</key>
+    </layer>
+  </encoding>
+</visualkeyboard>
