@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<visualkeyboard>
+  <header>
+    <version>10.0</version>
+    <kbdname>kurmali</kbdname>
+    <flags/>
+  </header>
+  <encoding name="unicode" fontname="Arial" fontsize="-12">
+    <layer shift="S">
+      <key vkey="K_1">!</key>
+      <key vkey="K_QUOTE">"</key>
+      <key vkey="K_3">#</key>
+      <key vkey="K_4">$</key>
+      <key vkey="K_5">%</key>
+      <key vkey="K_7">&amp;</key>
+      <key vkey="K_9">(</key>
+      <key vkey="K_0">)</key>
+      <key vkey="K_8">*</key>
+      <key vkey="K_EQUAL">+</key>
+      <key vkey="K_COLON">:</key>
+      <key vkey="K_COMMA">&lt;</key>
+      <key vkey="K_PERIOD">&gt;</key>
+      <key vkey="K_SLASH">?</key>
+      <key vkey="K_2">@</key>
+      <key vkey="K_D">𖶚</key>
+      <key vkey="K_E">𖶂</key>
+      <key vkey="K_H">𖶜</key>
+      <key vkey="K_N">𖶕</key>
+      <key vkey="K_O">𖶒</key>
+      <key vkey="K_R">𖶎</key>
+      <key vkey="K_T">𖶛</key>
+      <key vkey="K_X">𖶘</key>
+      <key vkey="K_Y">𖶓</key>
+      <key vkey="K_6">^</key>
+      <key vkey="K_HYPHEN">_</key>
+      <key vkey="K_LBRKT">{</key>
+      <key vkey="K_BKSLASH">|</key>
+      <key vkey="K_RBRKT">}</key>
+      <key vkey="K_BKQUOTE">~</key>
+    </layer>
+    <layer shift="">
+      <key vkey="K_QUOTE">'</key>
+      <key vkey="K_COMMA">,</key>
+      <key vkey="K_HYPHEN">-</key>
+      <key vkey="K_PERIOD">𖶝</key>
+      <key vkey="K_SLASH">𖶞</key>
+      <key vkey="K_0">𖶠</key>
+      <key vkey="K_1">𖶡</key>
+      <key vkey="K_2">𖶢</key>
+      <key vkey="K_3">𖶣</key>
+      <key vkey="K_4">𖶤</key>
+      <key vkey="K_5">𖶥</key>
+      <key vkey="K_6">𖶦</key>
+      <key vkey="K_7">𖶧</key>
+      <key vkey="K_8">𖶨</key>
+      <key vkey="K_9">𖶩</key>
+      <key vkey="K_COLON">;</key>
+      <key vkey="K_LBRKT">[</key>
+      <key vkey="K_BKSLASH">\</key>
+      <key vkey="K_RBRKT">]</key>
+      <key vkey="K_BKQUOTE">`</key>
+      <key vkey="K_A">𖶃</key>
+      <key vkey="K_B">𖶁</key>
+      <key vkey="K_C">𖶕</key>
+      <key vkey="K_D">𖶐</key>
+      <key vkey="K_E">𖶆</key>
+      <key vkey="K_G">𖶄</key>
+      <key vkey="K_H">𖶍</key>
+      <key vkey="K_I">𖶉</key>
+      <key vkey="K_J">𖶖</key>
+      <key vkey="K_K">𖶊</key>
+      <key vkey="K_L">𖶑</key>
+      <key vkey="K_M">𖶌</key>
+      <key vkey="K_N">𖶈</key>
+      <key vkey="K_O">𖶀</key>
+      <key vkey="K_P">𖶗</key>
+      <key vkey="K_R">𖶋</key>
+      <key vkey="K_S">𖶇</key>
+      <key vkey="K_T">𖶃</key>
+      <key vkey="K_U">𖶏</key>
+      <key vkey="K_X">𖶜</key>
+      <key vkey="K_Y">𖶙</key>
+    </layer>
+  </encoding>
+</visualkeyboard>
