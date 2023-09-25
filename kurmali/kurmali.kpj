@@ -12,7 +12,7 @@
       <ID>id_64bbd8bd080b2039f7cf7ec5b89d5783</ID>
       <Filename>kurmali.kmn</Filename>
       <Filepath>source\kurmali.kmn</Filepath>
-      <FileVersion>1.0</FileVersion>
+      <FileVersion>1.01</FileVersion>
       <FileType>.kmn</FileType>
       <Details>
         <Name>Kurmail Chisoi Unicode</Name>
@@ -57,6 +57,27 @@
       <Filepath>kurmali.keyboard_info</Filepath>
       <FileVersion></FileVersion>
       <FileType>.keyboard_info</FileType>
+    </File>
+    <File>
+      <ID>id_d06aad56f15646c751e3e00d6e5368f2</ID>
+      <Filename>BiswaUnicode_cwc.ttf</Filename>
+      <Filepath>source\BiswaUnicode_cwc.ttf</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <ID>id_0647ad4868fecb04b252e5e4eb6fbbb6</ID>
+      <Filename>BiswaKurmaliChisoiUnicode.ttf</Filename>
+      <Filepath>BiswaKurmaliChisoiUnicode.ttf</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <ID>id_5c5d544ee8e94994034a8d8387f3c8d8</ID>
+      <Filename>BiswaKurmaliChisoiUnicode.otf</Filename>
+      <Filepath>BiswaKurmaliChisoiUnicode.otf</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.otf</FileType>
     </File>
     <File>
       <ID>id_064ef5f1ed78284fb95e490d51446eb0</ID>
@@ -107,19 +128,12 @@
       <ParentFileID>id_8437717aff87bfe9480aa6ef001ecf60</ParentFileID>
     </File>
     <File>
-      <ID>id_d06aad56f15646c751e3e00d6e5368f2</ID>
-      <Filename>BiswaUnicode_cwc.ttf</Filename>
-      <Filepath>source\BiswaUnicode_cwc.ttf</Filepath>
+      <ID>id_45c395b5eed5716b8ce864d1e5bf91c1</ID>
+      <Filename>BiswaKurmaliChisoiUnicode.ttf</Filename>
+      <Filepath>source\..\BiswaKurmaliChisoiUnicode.ttf</Filepath>
       <FileVersion></FileVersion>
       <FileType>.ttf</FileType>
       <ParentFileID>id_8437717aff87bfe9480aa6ef001ecf60</ParentFileID>
-    </File>
-    <File>
-      <ID>id_d06aad56f15646c751e3e00d6e5368f2</ID>
-      <Filename>BiswaUnicode_cwc.ttf</Filename>
-      <Filepath>source\BiswaUnicode_cwc.ttf</Filepath>
-      <FileVersion></FileVersion>
-      <FileType>.ttf</FileType>
     </File>
   </Files>
 </KeymanDeveloperProject>

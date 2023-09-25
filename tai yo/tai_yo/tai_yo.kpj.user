@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>1</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\tai yo\tai_yo\tai_yo.kpj</path>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_4a4c273a26349c246b83a7df62989e20</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\tai yo\tai_yo\source\tai_yo.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>True</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_b78e15cfd8515f5ec2341ae2bed1575c</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\tai yo\tai_yo\source\tai_yo.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\tai yo\tai_yo\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\tai yo\tai_yo\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\tai yo\tai_yo\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ce82fd0e224250b6c968bfefdc48b8ba</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\tai yo\tai_yo\tai_yo.keyboard_info</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8099a3aef20522c056f97531947b0b77</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\tai yo\taiyo2.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>True</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_526ed85759840784799a6633b0f4f5e1</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\tai yo\tai_yo\source\..\build\tai_yo.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_fea85428c3ce03eb11cc39542439dd3c</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\tai yo\tai_yo\source\..\build\tai_yo.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\tai yo\tai_yo\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\tai yo\tai_yo\source\readme.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_1ff2edda29b2ef73a37b74ae01ca6a66</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\tai yo\tai_yo\source\tai_yo.keyman-touch-layout</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_7804b1f8fff5567d5f18bf7b0961e90b</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\tai yo\tai_yo\source\..\..\taiyo2.keyman-touch-layout</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_67c3668f01025925709b931c3fd31662</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\tai yo\tai_yo\source\..\..\taiyo2.kmn</FullPath>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_10cf192bfe52d7d064aa165c70c5c957</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\tai yo\tai_yo\source\..\NotoSerifTaiYo-Regular.ttf</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>taiyo2.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\tai yo\taiyo2.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>tai_yo.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\tai yo\tai_yo\source\tai_yo.kmn</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>

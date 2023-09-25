@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <KeymanDeveloperProjectUser>
   <ViewState>
-    <tab>3</tab>
+    <tab>1</tab>
     <showhelp>1</showhelp>
-    <path>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\quiang_rma\quiang_rma.kpj</path>
+    <path>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\quiang_rma\quiang_rma.kpj</path>
+    <file ID="id_2bd39557571346d456f5abe097dc65f5" Expanded="1"/>
   </ViewState>
   <FileStates>
     <FileState>
       <ID>id_2bd39557571346d456f5abe097dc65f5</ID>
-      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\quiang_rma\source\quiang_rma.kmn</FullPath>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\quiang_rma\source\quiang_rma.kmn</FullPath>
       <IDEState>
         <LayoutDisplay102Key>0</LayoutDisplay102Key>
         <DebugDefaultFont>1</DebugDefaultFont>
@@ -20,7 +21,7 @@
     </FileState>
     <FileState>
       <ID>id_46e9cc0c4f343a56da1af1fce52f9769</ID>
-      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\quiang_rma\source\quiang_rma.kps</FullPath>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\quiang_rma\source\quiang_rma.kps</FullPath>
       <IDEState>
         <CodeFont>Consolas|-9|   |0</CodeFont>
         <CharFont>Consolas|-9|   |0</CharFont>
@@ -28,51 +29,47 @@
     </FileState>
     <FileState>
       <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
-      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\quiang_rma\HISTORY.md</FullPath>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\quiang_rma\HISTORY.md</FullPath>
     </FileState>
     <FileState>
       <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
-      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\quiang_rma\LICENSE.md</FullPath>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\quiang_rma\LICENSE.md</FullPath>
     </FileState>
     <FileState>
       <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
-      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\quiang_rma\README.md</FullPath>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\quiang_rma\README.md</FullPath>
     </FileState>
     <FileState>
       <ID>id_ced31aa8cf390f6f49967e92ccf417f9</ID>
-      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\quiang_rma\quiang_rma.keyboard_info</FullPath>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\quiang_rma\quiang_rma.keyboard_info</FullPath>
     </FileState>
     <FileState>
       <ID>id_d530ec9593e66dc022b246d01d965b4f</ID>
-      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\quiang_rma\Rma-serif-PUA-Regular.ttf</FullPath>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\quiang_rma\Rma-serif-PUA-Regular.ttf</FullPath>
     </FileState>
     <FileState>
       <ID>id_44ada0319df7116eb9129da8605f0d22</ID>
-      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\quiang_rma\source\..\build\quiang_rma.kmx</FullPath>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\quiang_rma\source\..\build\quiang_rma.kmx</FullPath>
     </FileState>
     <FileState>
       <ID>id_02e6bb1f990894ae8f932b31b852e61d</ID>
-      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\quiang_rma\source\..\build\quiang_rma.js</FullPath>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\quiang_rma\source\..\build\quiang_rma.js</FullPath>
     </FileState>
     <FileState>
       <ID>id_7f9a05ace1bbda7926bc5ac3809018c0</ID>
-      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\quiang_rma\source\..\build\quiang_rma.kvk</FullPath>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\quiang_rma\source\..\build\quiang_rma.kvk</FullPath>
     </FileState>
     <FileState>
       <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
-      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\quiang_rma\source\welcome.htm</FullPath>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\quiang_rma\source\welcome.htm</FullPath>
     </FileState>
     <FileState>
       <ID>id_8da344c4cea6f467013357fe099006f5</ID>
-      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\quiang_rma\source\readme.htm</FullPath>
-      <IDEState>
-        <CodeFont>Consolas|-9|   |0</CodeFont>
-        <CharFont>Consolas|-9|   |0</CharFont>
-      </IDEState>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\quiang_rma\source\readme.htm</FullPath>
     </FileState>
     <FileState>
       <ID>id_9f221eb7df961f6aa71c9d14ec229e62</ID>
-      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\quiang_rma\source\..\Rma-serif-PUA-Regular.ttf</FullPath>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\quiang_rma\source\..\Rma-serif-PUA-Regular.ttf</FullPath>
     </FileState>
   </FileStates>
   <MRU>
@@ -80,19 +77,7 @@
       <ID>id_MRU0</ID>
       <Filename>quiang_rma.kmn</Filename>
       <FileType>.kmn</FileType>
-      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\quiang_rma\source\quiang_rma.kmn</FullPath>
-    </File>
-    <File>
-      <ID>id_MRU1</ID>
-      <Filename>readme.htm</Filename>
-      <FileType>.htm</FileType>
-      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\quiang_rma\source\readme.htm</FullPath>
-    </File>
-    <File>
-      <ID>id_MRU2</ID>
-      <Filename>quiang_rma.kps</Filename>
-      <FileType>.kps</FileType>
-      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\quiang_rma\source\quiang_rma.kps</FullPath>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\quiang_rma\source\quiang_rma.kmn</FullPath>
     </File>
   </MRU>
 </KeymanDeveloperProjectUser>

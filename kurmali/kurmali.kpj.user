@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>4</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\kurmali\kurmali.kpj</path>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_64bbd8bd080b2039f7cf7ec5b89d5783</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\kurmali\source\kurmali.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>True</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_8437717aff87bfe9480aa6ef001ecf60</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\kurmali\source\kurmali.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\kurmali\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\kurmali\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\kurmali\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_74c0aab6be31ec22d4b1898d29449ada</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\kurmali\kurmali.keyboard_info</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_d06aad56f15646c751e3e00d6e5368f2</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\kurmali\source\BiswaUnicode_cwc.ttf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0647ad4868fecb04b252e5e4eb6fbbb6</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\kurmali\BiswaKurmaliChisoiUnicode.ttf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_5c5d544ee8e94994034a8d8387f3c8d8</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\kurmali\BiswaKurmaliChisoiUnicode.otf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_064ef5f1ed78284fb95e490d51446eb0</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\kurmali\source\kurmali.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_110b5dcfdc77cc4bc7bf434de9547cd3</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\kurmali\source\..\build\kurmali.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_2e8a50ccd6201691fb58d27eb2ad5ff9</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\kurmali\source\..\build\kurmali.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_bc7ab68c62672ac88362666467cc80b1</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\kurmali\source\..\build\kurmali.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\kurmali\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\kurmali\source\readme.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_45c395b5eed5716b8ce864d1e5bf91c1</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\kurmali\source\..\BiswaKurmaliChisoiUnicode.ttf</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>kurmali.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\kurmali\source\kurmali.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>kurmali.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards\kurmali\source\kurmali.kmn</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>

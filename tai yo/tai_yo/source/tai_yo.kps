@@ -16,26 +16,20 @@
     <Items/>
   </StartMenu>
   <Info>
-    <Name URL="">Kurmali</Name>
-    <Copyright URL="">© craig cornelius</Copyright>
-    <Author URL="mailto:cwcornelius@gmail.com">craig cornelius</Author>
+    <Name URL="">Tai Yo</Name>
+    <Copyright URL="">© Craig Cornelius</Copyright>
+    <Author URL="">Craig Cornelius</Author>
     <Version URL=""></Version>
   </Info>
   <Files>
     <File>
-      <Name>..\build\kurmali.kmx</Name>
+      <Name>..\build\tai_yo.kmx</Name>
       <Description></Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.kmx</FileType>
     </File>
     <File>
-      <Name>..\build\kurmali.js</Name>
-      <Description></Description>
-      <CopyLocation>0</CopyLocation>
-      <FileType>.js</FileType>
-    </File>
-    <File>
-      <Name>..\build\kurmali.kvk</Name>
+      <Name>..\build\tai_yo.kvk</Name>
       <Description></Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.kvk</FileType>
@@ -53,27 +47,39 @@
       <FileType>.htm</FileType>
     </File>
     <File>
-      <Name>BiswaUnicode_cwc.ttf</Name>
-      <Description>Font Untitled2</Description>
+      <Name>tai_yo.keyman-touch-layout</Name>
+      <Description>File tai_yo.keyman-touch-layout</Description>
       <CopyLocation>0</CopyLocation>
-      <FileType>.ttf</FileType>
+      <FileType>.keyman-touch-layout</FileType>
     </File>
     <File>
-      <Name>..\BiswaKurmaliChisoiUnicode.ttf</Name>
-      <Description>Font Biswa Kurmali Chisoi</Description>
+      <Name>..\..\taiyo2.keyman-touch-layout</Name>
+      <Description>File taiyo2.keyman-touch-layout</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.keyman-touch-layout</FileType>
+    </File>
+    <File>
+      <Name>..\..\taiyo2.kmn</Name>
+      <Description>File taiyo2.kmn</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmn</FileType>
+    </File>
+    <File>
+      <Name>..\NotoSerifTaiYo-Regular.ttf</Name>
+      <Description>Font Noto Serif Tai Yo</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.ttf</FileType>
     </File>
   </Files>
   <Keyboards>
     <Keyboard>
-      <Name>Kurmail Chisoi Unicode</Name>
-      <ID>kurmali</ID>
-      <Version>1.01</Version>
-      <OSKFont>BiswaUnicode_cwc.ttf</OSKFont>
-      <DisplayFont>BiswaUnicode_cwc.ttf</DisplayFont>
+      <Name>Tai Yo 1</Name>
+      <ID>tai_yo</ID>
+      <Version>1.0</Version>
+      <OSKFont>..\NotoSerifTaiYo-Regular.ttf</OSKFont>
+      <DisplayFont>..\NotoSerifTaiYo-Regular.ttf</DisplayFont>
       <Languages>
-        <Language ID="kyw">Kudmali</Language>
+        <Language ID="tyj">Tai Do</Language>
       </Languages>
     </Keyboard>
   </Keyboards>

@@ -1,8 +1,9 @@
 ﻿c kurmali generated from template at 2023-06-20 07:26:21
-c with name "Kurmali"
+c with name "Kurmali".
+c Adding font files
 store(&VERSION) '10.0'
 store(&NAME) 'Kurmail Chisoi Unicode'
-store(&KEYBOARDVERSION) '1.0'
+store(&KEYBOARDVERSION) '1.01'
 store(&TARGETS) 'any'
 store(&BITMAP) 'kurmali.ico'
 store(&VISUALKEYBOARD) 'kurmali.kvks'
