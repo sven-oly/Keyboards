@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>16.0.141.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <ReadMeFile>readme.htm</ReadMeFile>
+    <MSIFileName></MSIFileName>
+    <MSIOptions></MSIOptions>
+    <FollowKeyboardVersion/>
+  </Options>
+  <StartMenu>
+    <Folder></Folder>
+    <Items/>
+  </StartMenu>
+  <Info>
+    <Name URL="">quiang_rma</Name>
+    <Copyright URL="">© cwcornelius</Copyright>
+    <Author URL="mailto:cwcornelius@gmail.com">cwcornelius</Author>
+    <Version URL=""></Version>
+    <WebSite URL="https://languagetools-153419.appspot.com/qiang/">https://languagetools-153419.appspot.com/qiang/</WebSite>
+  </Info>
+  <Files>
+    <File>
+      <Name>..\build\quiang_rma.kmx</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+    <File>
+      <Name>..\build\quiang_rma.js</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.js</FileType>
+    </File>
+    <File>
+      <Name>..\build\quiang_rma.kvk</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kvk</FileType>
+    </File>
+    <File>
+      <Name>welcome.htm</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>readme.htm</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>..\Rma-serif-PUA-Regular.ttf</Name>
+      <Description>Font Rma-serif-PUA Regular</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+  </Files>
+  <Keyboards>
+    <Keyboard>
+      <Name>Qiang Private Use Area </Name>
+      <ID>quiang_rma</ID>
+      <Version>1.0</Version>
+      <OSKFont>..\Rma-serif-PUA-Regular.ttf</OSKFont>
+      <DisplayFont>..\Rma-serif-PUA-Regular.ttf</DisplayFont>
+      <Languages>
+        <Language ID="cng">Northern Qiang</Language>
+      </Languages>
+    </Keyboard>
+  </Keyboards>
+  <Strings/>
+</Package>

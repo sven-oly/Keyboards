@@ -1,0 +1,112 @@
+﻿c KeyMan keyboard generated from Google Input Tools format
+c Sat Sep 23 2023 21:47:39 GMT-0700 (Pacific Daylight Time)
+c Source Keyboard File: qiang_pua.js
+c
+ 
+store(&VERSION) '10.0'
+store(&NAME) 'Qiang Private Use Area '
+store(&KEYBOARDVERSION) '1.0'
+store(&TARGETS) 'any'
+store(&VISUALKEYBOARD) 'quiang_rma.kvks'
+store(&LAYOUTFILE) 'quiang_rma.keyman-touch-layout'
+
+begin Unicode > use(main)
+
+group(main) using keys
+ 
++ [K_BKQUOTE] > U+E174 
++ [K_1] > U+0031 
++ [K_2] > U+0032 
++ [K_3] > U+0033 
++ [K_4] > U+0034 
++ [K_5] > U+0035 
++ [K_6] > U+0036 
++ [K_7] > U+0037 
++ [K_8] > U+0038 
++ [K_9] > U+0039 
++ [K_0] > U+0030 
++ [K_HYPHEN] > U+002D 
++ [K_EQUAL] > U+003D 
++ [K_Q] > U+E155 
++ [K_W] > U+E145 
++ [K_E] > U+E16E 
++ [K_R] > U+E173 
++ [K_T] > U+E148 
++ [K_Y] > U+E157 
++ [K_U] > U+E16D 
++ [K_I] > U+E16F 
++ [K_O] > U+E171 
++ [K_P] > U+E141 
++ [K_LBRKT] > U+E17E 
++ [K_RBRKT] > U+E17F 
++ [K_BKSLASH] > U+007C 
++ [K_A] > U+E16A 
++ [K_S] > U+E162 
++ [K_D] > U+E147 
++ [K_F] > U+E15A 
++ [K_G] > U+E14E 
++ [K_H] > U+E152 
++ [K_J] > U+E154 
++ [K_K] > U+E14F 
++ [K_L] > U+E14C 
++ [K_COLON] > U+E169 
++ [K_QUOTE] > U+0027 
++ [K_Z] > U+E15F 
++ [K_X] > U+E158 
++ [K_C] > U+E160 
++ [K_V] > U+E15D 
++ [K_B] > U+E140 
++ [K_N] > U+E14A 
++ [K_M] > U+E143 
++ [K_COMMA] > U+E179 
++ [K_PERIOD] > U+E178 
++ [K_SLASH] > U+002F 
+
+
++ [SHIFT K_BKQUOTE] > U+E175 
++ [SHIFT K_1] > U+E17A 
++ [SHIFT K_2] > U+0040 
++ [SHIFT K_3] > U+0023 
++ [SHIFT K_4] > U+0024 
++ [SHIFT K_5] > U+0025 
++ [SHIFT K_6] > U+005E 
++ [SHIFT K_7] > U+0026 
++ [SHIFT K_8] > U+002A 
++ [SHIFT K_9] > U+0028 
++ [SHIFT K_0] > U+0029 
++ [SHIFT K_HYPHEN] > U+005F 
++ [SHIFT K_EQUAL] > U+002B 
++ [SHIFT K_Q] > U+E177 
++ [SHIFT K_W] > U+E166 
++ [SHIFT K_E] > U+E16C 
++ [SHIFT K_R] > U+E168 
++ [SHIFT K_T] > U+E164 
++ [SHIFT K_Y] > U+E14D 
++ [SHIFT K_U] > U+E167 
++ [SHIFT K_I] > U+E170 
++ [SHIFT K_O] > U+E15C 
++ [SHIFT K_P] > U+E146 
++ [SHIFT K_LBRKT] > U+E17C 
++ [SHIFT K_RBRKT] > U+E17D 
++ [SHIFT K_BKSLASH] > U+007C 
++ [SHIFT K_A] > U+E16B 
++ [SHIFT K_S] > U+E163 
++ [SHIFT K_D] > U+E149 
++ [SHIFT K_F] > U+E144 
++ [SHIFT K_G] > U+E150 
++ [SHIFT K_H] > U+E153 
++ [SHIFT K_J] > U+E156 
++ [SHIFT K_K] > U+E15B 
++ [SHIFT K_L] > U+E14B 
++ [SHIFT K_COLON] > U+E169 
++ [SHIFT K_QUOTE] > U+0022 
++ [SHIFT K_Z] > U+E161 
++ [SHIFT K_X] > U+E159 
++ [SHIFT K_C] > U+E165 
++ [SHIFT K_V] > U+E15E 
++ [SHIFT K_B] > U+E142 
++ [SHIFT K_N] > U+E172 
++ [SHIFT K_M] > U+E151 
++ [SHIFT K_COMMA] > U+003C 
++ [SHIFT K_PERIOD] > U+003E 
++ [SHIFT K_SLASH] > U+E17B 
