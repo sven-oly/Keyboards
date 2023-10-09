@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>4</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\mende_kikakui\mende_kikakui.kpj</path>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_a8a64ac3b9fba60347f70c707cc77b40</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\mende_kikakui\source\mende_kikakui.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>True</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_bf65682ffcc71b4ed22508ca6a090134</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\mende_kikakui\source\mende_kikakui.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\mende_kikakui\HISTORY.md</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\mende_kikakui\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\mende_kikakui\README.md</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_61fa14c1605375bbb7206c61a7c748d1</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\mende_kikakui\mende_kikakui.keyboard_info</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_60b452faa67ef79c2f5381fa381b2b7f</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\mende_kikakui\source\..\build\mende_kikakui.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_e35edbd49fd5ac57425bc6d4dbe19cd3</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\mende_kikakui\source\..\build\mende_kikakui.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8ce9d016a00e503f51b2762766a3d79c</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\mende_kikakui\source\..\build\mende_kikakui.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\mende_kikakui\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\mende_kikakui\source\readme.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_1d097483110ccf26e2d124c26eeb9b25</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\mende_kikakui\source\..\KikakuiSans.ot.ttf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_6cc6da05386ca88c80bf5b7eaf71977d</ID>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\mende_kikakui\source\..\KikakuiSansPro.ot.ttf</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>mende_kikakui.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\mende_kikakui\source\mende_kikakui.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>README.md</Filename>
+      <FileType>.md</FileType>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\mende_kikakui\README.md</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>HISTORY.md</Filename>
+      <FileType>.md</FileType>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\mende_kikakui\HISTORY.md</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU3</ID>
+      <Filename>mende_kikakui.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\mende_kikakui\source\mende_kikakui.kps</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <KeymanDeveloperProjectUser>
   <ViewState>
-    <tab>1</tab>
+    <tab>4</tab>
     <showhelp>1</showhelp>
     <path>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\tai yo\tai_yo\tai_yo.kpj</path>
   </ViewState>
@@ -41,18 +41,6 @@
     <FileState>
       <ID>id_ce82fd0e224250b6c968bfefdc48b8ba</ID>
       <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\tai yo\tai_yo\tai_yo.keyboard_info</FullPath>
-    </FileState>
-    <FileState>
-      <ID>id_8099a3aef20522c056f97531947b0b77</ID>
-      <FullPath>C:\Users\cwcor\Documents\Keyman Developer\Projects\Keyboards_github\tai yo\taiyo2.kmn</FullPath>
-      <IDEState>
-        <LayoutDisplay102Key>0</LayoutDisplay102Key>
-        <DebugDefaultFont>1</DebugDefaultFont>
-        <DebugFont>Consolas|-9|   |0</DebugFont>
-        <CodeFont>Consolas|-9|   |0</CodeFont>
-        <CharFont>Consolas|-9|   |0</CharFont>
-      </IDEState>
-      <Debug>True</Debug>
     </FileState>
     <FileState>
       <ID>id_526ed85759840784799a6633b0f4f5e1</ID>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>16.0.141.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <ReadMeFile>readme.htm</ReadMeFile>
+    <MSIFileName></MSIFileName>
+    <MSIOptions></MSIOptions>
+    <FollowKeyboardVersion/>
+  </Options>
+  <StartMenu>
+    <Folder></Folder>
+    <Items/>
+  </StartMenu>
+  <Info>
+    <Name URL="">Mende Kikakui</Name>
+    <Copyright URL="">© Craig Cornelius</Copyright>
+    <Author URL="">Craig Cornelius</Author>
+    <Version URL=""></Version>
+  </Info>
+  <Files>
+    <File>
+      <Name>..\build\mende_kikakui.kmx</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+    <File>
+      <Name>..\build\mende_kikakui.js</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.js</FileType>
+    </File>
+    <File>
+      <Name>..\build\mende_kikakui.kvk</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kvk</FileType>
+    </File>
+    <File>
+      <Name>welcome.htm</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>readme.htm</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>..\KikakuiSans.ot.ttf</Name>
+      <Description>Font Kikakui Sans</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>..\KikakuiSansPro.ot.ttf</Name>
+      <Description>Font Kikakui Sans Pro</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+  </Files>
+  <Keyboards>
+    <Keyboard>
+      <Name>Mende Kikakui Phonetic 3</Name>
+      <ID>mende_kikakui</ID>
+      <Version>1.0</Version>
+      <OSKFont>..\KikakuiSansPro.ot.ttf</OSKFont>
+      <DisplayFont>..\KikakuiSansPro.ot.ttf</DisplayFont>
+      <Languages>
+        <Language ID="men-Kika">Mende (Sierra Leone)</Language>
+      </Languages>
+    </Keyboard>
+  </Keyboards>
+  <Strings/>
+</Package>

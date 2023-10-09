@@ -59,16 +59,6 @@
       <FileType>.keyboard_info</FileType>
     </File>
     <File>
-      <ID>id_8099a3aef20522c056f97531947b0b77</ID>
-      <Filename>taiyo2.kmn</Filename>
-      <Filepath>..\taiyo2.kmn</Filepath>
-      <FileVersion>1.0</FileVersion>
-      <FileType>.kmn</FileType>
-      <Details>
-        <Name>Tai Yo 2</Name>
-      </Details>
-    </File>
-    <File>
       <ID>id_526ed85759840784799a6633b0f4f5e1</ID>
       <Filename>tai_yo.kmx</Filename>
       <Filepath>source\..\build\tai_yo.kmx</Filepath>
